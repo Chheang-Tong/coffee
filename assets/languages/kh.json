@@ -219,7 +219,7 @@
         "selected_supplier": "អ្នកផ្គត់ផ្គង់ដែលបានជ្រើស",
         "title": "ចំណងជើង",
         "equipment_maintenance": "ថែទាំឧបករណ៍",
-        "decription": "សេចក្តីពិពណ៌នា...",
+        "description": "សេចក្តីពិពណ៌នា...",
         "expense_date": "កាលបរិច្ឆេទចំណាយ",
         "due_date": "ថ្ងៃផុតកំណត់",
         "payment_status": {
@@ -285,14 +285,14 @@
         "create_customer_group": {
           "label": "បង្កើតក្រុមអតិថិជន",
           "name": "ឈ្មោះ",
-          "decription": "សេចក្តីពិពណ៌នា",
+          "description": "សេចក្តីពិពណ៌នា",
           "default": "លំនាំដើម",
           "done": "រួចរាល់"
         },
         "edit_customer_group": {
           "label": "កែប្រែក្រុមអតិថិជន",
           "name": "ឈ្មោះ",
-          "decription": "សេចក្តីពិពណ៌នា",
+          "description": "សេចក្តីពិពណ៌នា",
           "default": "លំនាំដើម",
           "done": "រួចរាល់"
         },
@@ -597,14 +597,14 @@
               "label": "បង្កើត",
               "create_type": "បង្កើតប្រភេទ",
               "name": "ឈ្មោះ",
-              "decription": "សេចក្តីពិពណ៌នា",
+              "description": "សេចក្តីពិពណ៌នា",
               "done": "រួចរាល់"
             },
             "edit": {
               "label": "កែប្រែ",
               "edit_type": "កែប្រែប្រភេទ",
               "name": "ឈ្មោះ",
-              "decription": "សេចក្តីពិពណ៌នា",
+              "description": "សេចក្តីពិពណ៌នា",
               "done": "រួចរាល់"
             },
             "delete": {
@@ -625,7 +625,7 @@
               "create_manufacturer": "បង្កើតក្រុមហ៊ុនផលិត",
               "name": "ឈ្មោះ",
               "website": "គេហទំព័រ",
-              "decription": "សេចក្តីពិពណ៌នា",
+              "description": "សេចក្តីពិពណ៌នា",
               "done": "រួចរាល់"
             },
             "edit": {
@@ -633,7 +633,7 @@
               "edit_manufacturer": "កែប្រែក្រុមហ៊ុនផលិត",
               "name": "ឈ្មោះ",
               "website": "គេហទំព័រ",
-              "decription": "សេចក្តីពិពណ៌នា",
+              "description": "សេចក្តីពិពណ៌នា",
               "done": "រួចរាល់"
             },
             "delete": {
@@ -653,14 +653,14 @@
               "label": "បង្កើត",
               "create_brand": "បង្កើតម៉ាក",
               "name": "ឈ្មោះ",
-              "decription": "សេចក្តីពិពណ៌នា",
+              "description": "សេចក្តីពិពណ៌នា",
               "done": "រួចរាល់"
             },
             "edit": {
               "label": "កែប្រែ",
               "edit_brand": "កែប្រែម៉ាក",
               "name": "ឈ្មោះ",
-              "decription": "សេចក្តីពិពណ៌នា",
+              "description": "សេចក្តីពិពណ៌នា",
               "done": "រួចរាល់"
             },
             "delete": {
@@ -738,7 +738,7 @@
               "create_expense_type": "បង្កើតប្រភេទចំណាយ",
               "name": "ឈ្មោះ",
               "type": "ប្រភេទ",
-              "decription": "សេចក្តីពិពណ៌នា",
+              "description": "សេចក្តីពិពណ៌នា",
               "done": "រួចរាល់"
             },
             "edit": {
@@ -746,7 +746,7 @@
               "edit_expense_type": "កែប្រែប្រភេទចំណាយ",
               "name": "ឈ្មោះ",
               "type": "ប្រភេទ",
-              "decription": "សេចក្តីពិពណ៌នា",
+              "description": "សេចក្តីពិពណ៌នា",
               "done": "រួចរាល់"
             },
             "delete": {
@@ -769,7 +769,7 @@
               "email": "អ៊ីមែល",
               "phone_number": "លេខទូរស័ព្ទ",
               "address": "អាសយដ្ឋាន",
-              "decription": "សេចក្តីពិពណ៌នា",
+              "description": "សេចក្តីពិពណ៌នា",
               "done": "រួចរាល់"
             },
             "edit": {
@@ -780,7 +780,7 @@
               "email": "អ៊ីមែល",
               "phone_number": "លេខទូរស័ព្ទ",
               "address": "អាសយដ្ឋាន",
-              "decription": "សេចក្តីពិពណ៌នា",
+              "description": "សេចក្តីពិពណ៌នា",
               "done": "រួចរាល់"
             },
             "delete": {
@@ -801,14 +801,14 @@
             "create_customer_segment": {
               "label": "បង្កើតក្រុមអតិថិជន",
               "name": "ឈ្មោះ",
-              "decription": "សេចក្តីពិពណ៌នា",
+              "description": "សេចក្តីពិពណ៌នា",
               "default": "លំនាំដើម",
               "done": "រួចរាល់"
             },
             "edit_customer_segment": {
               "label": "កែប្រែក្រុមអតិថិជន",
               "name": "ឈ្មោះ",
-              "decription": "សេចក្តីពិពណ៌នា",
+              "description": "សេចក្តីពិពណ៌នា",
               "default": "លំនាំដើម",
               "done": "រួចរាល់"
             },
@@ -827,7 +827,7 @@
             "create": {
               "label": "បង្កើតតួនាទី",
               "name": "ឈ្មោះ",
-              "decription": "សេចក្តីពិពណ៌នា",
+              "description": "សេចក្តីពិពណ៌នា",
               "permission": {
                 "label": "សិទ្ធិប្រើប្រាស់",
                 "analytics_management": "ការគ្រប់គ្រងវិភាគទិន្នន័យ",
@@ -836,7 +836,7 @@
                 "channel_management": "ការគ្រប់គ្រងឆានែល",
                 "customer_management": "ការគ្រប់គ្រងអតិថិជន",
                 "expense_management": "ការគ្រប់គ្រងការចំណាយ",
-                "food_berverage_management": "ការគ្រប់គ្រងអាហារ និងភេសជ្ជៈ",
+                "food_beverage_management": "ការគ្រប់គ្រងអាហារ និងភេសជ្ជៈ",
                 "goal_management": "ការគ្រប់គ្រងគោលដៅ",
                 "inventory_management": "ការគ្រប់គ្រងសារពើភណ្ឌ",
                 "marketing_management": "ការគ្រប់គ្រងទីផ្សារ",
@@ -860,7 +860,7 @@
             "edit": {
               "label": "កែប្រែតួនាទី",
               "name": "ឈ្មោះ",
-              "decription": "សេចក្តីពិពណ៌នា",
+              "description": "សេចក្តីពិពណ៌នា",
               "permission": {
                 "label": "សិទ្ធិប្រើប្រាស់",
                 "analytics_management": "ការគ្រប់គ្រងវិភាគទិន្នន័យ",
@@ -869,7 +869,7 @@
                 "channel_management": "ការគ្រប់គ្រងឆានែល",
                 "customer_management": "ការគ្រប់គ្រងអតិថិជន",
                 "expense_management": "ការគ្រប់គ្រងការចំណាយ",
-                "food_berverage_management": "ការគ្រប់គ្រងអាហារ និងភេសជ្ជៈ",
+                "food_beverage_management": "ការគ្រប់គ្រងអាហារ និងភេសជ្ជៈ",
                 "goal_management": "ការគ្រប់គ្រងគោលដៅ",
                 "inventory_management": "ការគ្រប់គ្រងសារពើភណ្ឌ",
                 "marketing_management": "ការគ្រប់គ្រងទីផ្សារ",

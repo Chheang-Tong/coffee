@@ -219,7 +219,7 @@
         "selected_supplier": "Selected Supplier",
         "title": "Title",
         "equipment_maintenance": "Equipment Maintenance",
-        "decription": "Description...",
+        "description": "Description...",
         "expense_date": "Expense Date",
         "due_date": "Due Date",
         "payment_status": {
@@ -285,14 +285,14 @@
         "create_customer_group": {
           "label": "Create Customer Group",
           "name": "Name",
-          "decription": "Description",
+          "description": "Description",
           "default": "Default",
           "done": "Done"
         },
         "edit_customer_group": {
           "label": "Edit Customer Group",
           "name": "Name",
-          "decription": "Description",
+          "description": "Description",
           "default": "Default",
           "done": "Done"
         },
@@ -597,14 +597,14 @@
               "label": "Create",
               "create_type": "Create Type",
               "name": "Name",
-              "decription": "Description",
+              "description": "Description",
               "done": "Done"
             },
             "edit": {
               "label": "Edit",
               "edit_type": "Edit Type",
               "name": "Name",
-              "decription": "Description",
+              "description": "Description",
               "done": "Done"
             },
             "delete": {
@@ -625,7 +625,7 @@
               "create_manufacturer": "Create Manufacturer",
               "name": "Name",
               "website": "Website",
-              "decription": "Description",
+              "description": "Description",
               "done": "Done"
             },
             "edit": {
@@ -633,7 +633,7 @@
               "edit_manufacturer": "Edit Manufacturer",
               "name": "Name",
               "website": "Website",
-              "decription": "Description",
+              "description": "Description",
               "done": "Done"
             },
             "delete": {
@@ -653,14 +653,14 @@
               "label": "Create",
               "create_brand": "Create Brand",
               "name": "Name",
-              "decription": "Description",
+              "description": "Description",
               "done": "Done"
             },
             "edit": {
               "label": "Edit",
               "edit_brand": "Edit Brand",
               "name": "Name",
-              "decription": "Description",
+              "description": "Description",
               "done": "Done"
             },
             "delete": {
@@ -738,7 +738,7 @@
               "create_expense_type": "Create Expense Type",
               "name": "Name",
               "type": "Type",
-              "decription": "Description",
+              "description": "Description",
               "done": "Done"
             },
             "edit": {
@@ -746,7 +746,7 @@
               "edit_expense_type": "Edit Expense Type",
               "name": "Name",
               "type": "Type",
-              "decription": "Description",
+              "description": "Description",
               "done": "Done"
             },
             "delete": {
@@ -769,7 +769,7 @@
               "email": "Email",
               "phone_number": "Phone Number",
               "address": "Address",
-              "decription": "Description",
+              "description": "Description",
               "done": "Done"
             },
             "edit": {
@@ -780,7 +780,7 @@
               "email": "Email",
               "phone_number": "Phone Number",
               "address": "Address",
-              "decription": "Description",
+              "description": "Description",
               "done": "Done"
             },
             "delete": {
@@ -801,14 +801,14 @@
             "create_customer_segment": {
               "label": "Create Customer Segment",
               "name": "Name",
-              "decription": "Description",
+              "description": "Description",
               "default": "Default",
               "done": "Done"
             },
             "edit_customer_segment": {
               "label": "Edit Customer Segment",
               "name": "Name",
-              "decription": "Description",
+              "description": "Description",
               "default": "Default",
               "done": "Done"
             },
@@ -827,7 +827,7 @@
             "create": {
               "label": "Create Role",
               "name": "Name",
-              "decription": "Description",
+              "description": "Description",
               "permission": {
                 "label": "Permission",
                 "analytics_management": "Analytics Management",
@@ -836,7 +836,7 @@
                 "channel_management": "Channel Management",
                 "customer_management": "Customer Management",
                 "expense_management": "Expense Management",
-                "food_berverage_management": "Food & Beverage Management",
+                "food_beverage_management": "Food & Beverage Management",
                 "goal_management": "Goal Management",
                 "inventory_management": "Inventory Management",
                 "marketing_management": "Marketing Management",
@@ -860,7 +860,7 @@
             "edit": {
               "label": "Edit Role",
               "name": "Name",
-              "decription": "Description",
+              "description": "Description",
               "permission": {
                 "label": "Permission",
                 "analytics_management": "Analytics Management",
@@ -869,7 +869,7 @@
                 "channel_management": "Channel Management",
                 "customer_management": "Customer Management",
                 "expense_management": "Expense Management",
-                "food_berverage_management": "Food & Beverage Management",
+                "food_beverage_management": "Food & Beverage Management",
                 "goal_management": "Goal Management",
                 "inventory_management": "Inventory Management",
                 "marketing_management": "Marketing Management",
